@@ -38,3 +38,29 @@ Landscape (16:9) collection covers for Nuvio.
 | trending-movies | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-collection-landscape/jpg/trending-movies-landscape.jpg |
 | trending-shows | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-collection-landscape/jpg/trending-shows-landscape.jpg |
 | upcoming | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-collection-landscape/jpg/upcoming-landscape.jpg |
+
+## Hambo Glass (Portrait, 1000x1500)
+
+| Collection | JPG |
+|---|---|
+| watchlist | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-glass-portrait/jpg/watchlist-portrait.jpg |
+| mukus-watchlist | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-glass-portrait/jpg/mukus-watchlist-portrait.jpg |
+| trending-movies | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-glass-portrait/jpg/trending-movies-portrait.jpg |
+| trending-shows | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-glass-portrait/jpg/trending-shows-portrait.jpg |
+| latest-movies | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-glass-portrait/jpg/latest-movies-portrait.jpg |
+| latest-shows | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-glass-portrait/jpg/latest-shows-portrait.jpg |
+| airing-soon | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-glass-portrait/jpg/airing-soon-portrait.jpg |
+| upcoming | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-glass-portrait/jpg/upcoming-portrait.jpg |
+
+## Hambo Glass (Landscape, 1280x720)
+
+| Collection | JPG |
+|---|---|
+| watchlist | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-glass-landscape/jpg/watchlist-landscape.jpg |
+| mukus-watchlist | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-glass-landscape/jpg/mukus-watchlist-landscape.jpg |
+| trending-movies | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-glass-landscape/jpg/trending-movies-landscape.jpg |
+| trending-shows | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-glass-landscape/jpg/trending-shows-landscape.jpg |
+| latest-movies | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-glass-landscape/jpg/latest-movies-landscape.jpg |
+| latest-shows | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-glass-landscape/jpg/latest-shows-landscape.jpg |
+| airing-soon | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-glass-landscape/jpg/airing-soon-landscape.jpg |
+| upcoming | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-glass-landscape/jpg/upcoming-landscape.jpg |
