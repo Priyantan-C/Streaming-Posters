@@ -15,26 +15,26 @@ Landscape (16:9) collection covers for Nuvio.
 
 ## Hambo Collection (Portrait, 1000x1500)
 
-| Collection | JPG | WEBP |
-|---|---|---|
-| mukus-watchlist | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-collection-portrait/jpg/mukus-watchlist-portrait.jpg | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-collection-portrait/webp/mukus-watchlist-portrait.webp |
-| watchlist | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-collection-portrait/jpg/watchlist-portrait.jpg | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-collection-portrait/webp/watchlist-portrait.webp |
-| airing-soon | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-collection-portrait/jpg/airing-soon-portrait.jpg | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-collection-portrait/webp/airing-soon-portrait.webp |
-| latest-movies | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-collection-portrait/jpg/latest-movies-portrait.jpg | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-collection-portrait/webp/latest-movies-portrait.webp |
-| latest-shows | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-collection-portrait/jpg/latest-shows-portrait.jpg | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-collection-portrait/webp/latest-shows-portrait.webp |
-| trending-movies | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-collection-portrait/jpg/trending-movies-portrait.jpg | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-collection-portrait/webp/trending-movies-portrait.webp |
-| trending-shows | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-collection-portrait/jpg/trending-shows-portrait.jpg | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-collection-portrait/webp/trending-shows-portrait.webp |
-| upcoming | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-collection-portrait/jpg/upcoming-portrait.jpg | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-collection-portrait/webp/upcoming-portrait.webp |
+| Collection | JPG |
+|---|---|
+| mukus-watchlist | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-collection-portrait/jpg/mukus-watchlist-portrait.jpg |
+| watchlist | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-collection-portrait/jpg/watchlist-portrait.jpg |
+| airing-soon | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-collection-portrait/jpg/airing-soon-portrait.jpg |
+| latest-movies | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-collection-portrait/jpg/latest-movies-portrait.jpg |
+| latest-shows | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-collection-portrait/jpg/latest-shows-portrait.jpg |
+| trending-movies | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-collection-portrait/jpg/trending-movies-portrait.jpg |
+| trending-shows | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-collection-portrait/jpg/trending-shows-portrait.jpg |
+| upcoming | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-collection-portrait/jpg/upcoming-portrait.jpg |
 
 ## Hambo Collection (Landscape, 1280x720)
 
-| Collection | JPG | WEBP |
-|---|---|---|
-| mukus-watchlist | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-collection-landscape/jpg/mukus-watchlist-landscape.jpg | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-collection-landscape/webp/mukus-watchlist-landscape.webp |
-| watchlist | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-collection-landscape/jpg/watchlist-landscape.jpg | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-collection-landscape/webp/watchlist-landscape.webp |
-| airing-soon | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-collection-landscape/jpg/airing-soon-landscape.jpg | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-collection-landscape/webp/airing-soon-landscape.webp |
-| latest-movies | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-collection-landscape/jpg/latest-movies-landscape.jpg | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-collection-landscape/webp/latest-movies-landscape.webp |
-| latest-shows | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-collection-landscape/jpg/latest-shows-landscape.jpg | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-collection-landscape/webp/latest-shows-landscape.webp |
-| trending-movies | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-collection-landscape/jpg/trending-movies-landscape.jpg | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-collection-landscape/webp/trending-movies-landscape.webp |
-| trending-shows | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-collection-landscape/jpg/trending-shows-landscape.jpg | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-collection-landscape/webp/trending-shows-landscape.webp |
-| upcoming | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-collection-landscape/jpg/upcoming-landscape.jpg | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-collection-landscape/webp/upcoming-landscape.webp |
+| Collection | JPG |
+|---|---|
+| mukus-watchlist | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-collection-landscape/jpg/mukus-watchlist-landscape.jpg |
+| watchlist | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-collection-landscape/jpg/watchlist-landscape.jpg |
+| airing-soon | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-collection-landscape/jpg/airing-soon-landscape.jpg |
+| latest-movies | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-collection-landscape/jpg/latest-movies-landscape.jpg |
+| latest-shows | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-collection-landscape/jpg/latest-shows-landscape.jpg |
+| trending-movies | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-collection-landscape/jpg/trending-movies-landscape.jpg |
+| trending-shows | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-collection-landscape/jpg/trending-shows-landscape.jpg |
+| upcoming | https://raw.githubusercontent.com/Priyantan-C/Streaming-Posters/main/hambo-collection-landscape/jpg/upcoming-landscape.jpg |
